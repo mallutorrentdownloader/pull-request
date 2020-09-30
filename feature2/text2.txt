@@ -1,1 +1,2 @@
 new file in feature2 branch in text2.txt
+added another line in text2
